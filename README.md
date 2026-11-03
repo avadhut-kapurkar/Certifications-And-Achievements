@@ -10,7 +10,7 @@ Welcome to my **Certifications & Achievements** repository! This space documents
 |---|---|---|
 | AWS Certificate | Amazon Web Services (AWS) | [View Certificate](./AVADHUT%20RAJARAM%20KAPURKAR%20(4).pdf) |
 | Java Fundamentals — 15-Day Program | ExcelR | [View Certificate](./ExcelR-90204-Avadhut%20Rajaram%20Kapurkar.pdf) |
-| Cybersecurity Webinar | Certificate of Participation | [View Certificate](./Avadhut%20Rajaram%20kapurkar_CERTIFICATE%20(1).pdf) |
+| Cybersecurity Webinar | **DG Intern Hub** | [View Certificate](./Avadhut%20Rajaram%20kapurkar_CERTIFICATE%20(1).pdf) |
 | Hacker Holidays 2026 — Byte Lotus | TryHackMe | [View Certificate](./THM-T756UJSGXS.pdf) |
 
 ### 🔐 TryHackMe — Hacker Holidays 2026
