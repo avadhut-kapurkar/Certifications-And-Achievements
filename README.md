@@ -1,34 +1,37 @@
-# Certifications & Achievements
+# 📜 Certifications & Achievements
 
-Welcome to my certifications repository! This repository showcases my learning journey, technical training, and achievements as a Computer Science Engineering student.
+Welcome to my **Certifications & Achievements** repository! This space documents my continuous learning journey, technical training, and hands-on growth as a Computer Science Engineering student with an interest in **Cybersecurity, Cloud Computing, and Software Development**.
 
-## 📜 Certifications
+---
 
-### ☕ Java Programming
-- **Java Fundamentals**
-- **Provider:** ExcelR
-- **Duration:** 15-day program
+## 🏅 Certifications
 
-### 🔐 Cybersecurity
-- **Cybersecurity Webinar Certificate**
-- Certificate added to this repository.
+| Certification / Program | Issuing Organization | Certificate |
+|---|---|---|
+| AWS Certificate | Amazon Web Services (AWS) | [View Certificate](./AVADHUT%20RAJARAM%20KAPURKAR%20(4).pdf) |
+| Java Fundamentals — 15-Day Program | ExcelR | [View Certificate](./ExcelR-90204-Avadhut%20Rajaram%20Kapurkar.pdf) |
+| Cybersecurity Webinar | Certificate of Participation | [View Certificate](./Avadhut%20Rajaram%20kapurkar_CERTIFICATE%20(1).pdf) |
+| Hacker Holidays 2026 — Byte Lotus | TryHackMe | [View Certificate](./THM-T756UJSGXS.pdf) |
 
-### 🛡️ TryHackMe — Hacker Holidays 2026
-- **Certificate:** Certificate of Participation
+### 🔐 TryHackMe — Hacker Holidays 2026
+- **Achievement:** Certificate of Participation
 - **Issued:** 13 August 2026
 - **Challenge:** Byte Lotus
 - **Credential ID:** `THM-T756UJSGXS`
-- **[View Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-T756UJSGXS.pdf)**
+- **[Verify / View Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-T756UJSGXS.pdf)**
+
+---
+
+## 🚀 Areas of Learning
+- Cybersecurity and Ethical Hacking
+- Security Operations (SOC) and Blue Team Fundamentals
+- AWS and Cloud Computing
+- Java Programming
+- Software Development
 
 ## 🎯 About This Repository
 
-I use this repository to keep my certificates and achievements organized in one place and to document my continuous learning across programming, cybersecurity, and other technology domains.
-
-## 🚀 Areas of Learning
-- Java Programming
-- Cybersecurity and Ethical Hacking
-- Cloud Computing
-- Software Development
+This repository serves as a central place to showcase my certificates and learning milestones. I keep adding verified achievements as I complete training programs, technical challenges, and learning activities.
 
 ## 🤝 Connect With Me
 - **GitHub:** [avadhut-kapurkar](https://github.com/avadhut-kapurkar)
@@ -36,4 +39,4 @@ I use this repository to keep my certificates and achievements organized in one 
 
 ---
 
-*Learning continuously, building skills, and growing one step at a time.* 🚀
+*Learning continuously. Practising consistently. Building towards a more secure digital world.* 🚀
