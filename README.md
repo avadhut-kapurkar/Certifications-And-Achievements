@@ -6,12 +6,23 @@ Welcome to my **Certifications & Achievements** repository! This space documents
 
 ## 🏅 Certifications
 
-| Certification / Program | Issuing Organization | Certificate |
-|---|---|---|
-| AWS Certificate | Amazon Web Services (AWS) | [View Certificate](./AVADHUT%20RAJARAM%20KAPURKAR%20(4).pdf) |
-| Java Fundamentals — 15-Day Program | ExcelR | [View Certificate](./ExcelR-90204-Avadhut%20Rajaram%20Kapurkar.pdf) |
-| Cybersecurity Webinar | **DG Intern Hub** | [View Certificate](./Avadhut%20Rajaram%20kapurkar_CERTIFICATE%20(1).pdf) |
-| Hacker Holidays 2026 — Byte Lotus | TryHackMe | [View Certificate](./THM-T756UJSGXS.pdf) |
+| Certification / Program | Issuing Organization | Result / Achievement | Certificate |
+|---|---|---|---|
+| Business to Business Marketing (B2B) | NPTEL | **79%** · Certified · 4 credits recommended | [View Certificate](./NOC26MG116S664100569.pdf) |
+| AWS Certificate | Amazon Web Services (AWS) | Certificate | [View Certificate](./AVADHUT%20RAJARAM%20KAPURKAR%20(4).pdf) |
+| Java Fundamentals — 15-Day Program | ExcelR | Certificate | [View Certificate](./ExcelR-90204-Avadhut%20Rajaram%20Kapurkar.pdf) |
+| Cybersecurity Webinar | **DG Intern Hub** | Certificate | [View Certificate](./Avadhut%20Rajaram%20kapurkar_CERTIFICATE%20(1).pdf) |
+| Hacker Holidays 2026 — Byte Lotus | TryHackMe | Certificate of Participation | [View Certificate](./THM-T756UJSGXS.pdf) |
+
+### 📘 NPTEL — Business to Business Marketing (B2B)
+- **Issuing Organization:** NPTEL
+- **Session:** July–December 2026
+- **Final Score:** **79/100**
+- **Assignment Score:** 25/25
+- **Exam Score:** 54/75
+- **Credits:** 4 credits recommended
+- **Credential ID:** `NPTEL26MG116S664100569`
+- **[View Certificate (PDF)](./NOC26MG116S664100569.pdf)**
 
 ### 🔐 TryHackMe — Hacker Holidays 2026
 - **Achievement:** Certificate of Participation
