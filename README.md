@@ -8,16 +8,17 @@ Welcome to my **Certifications & Achievements** repository! This space documents
 
 | Certification / Program | Issuing Organization | Result / Achievement | Certificate |
 |---|---|---|---|
-| Naukri Campus — B2B Business Assessment (Jio, Airtel & Zomato) | Naukri Campus | Certificate of Participation · 30-minute All-India assessment | [View Certificate](./NaukriCampus_Certificate_Participation.pdf) |
+| Brand Wars — Naukri Campus (Jio, Airtel & Zomato) | Naukri Campus | Certificate of Participation · 30-minute All-India assessment | [View Certificate](./NaukriCampus_Certificate_Participation.pdf) |
 | Business to Business Marketing (B2B) | NPTEL | **79%** · Certified · 4 credits recommended | [View Certificate](./NOC26MG116S664100569.pdf) |
 | AWS Certificate | Amazon Web Services (AWS) | Certificate | [View Certificate](./AVADHUT%20RAJARAM%20KAPURKAR%20(4).pdf) |
 | Java Fundamentals — 15-Day Program | ExcelR | Certificate | [View Certificate](./ExcelR-90204-Avadhut%20Rajaram%20Kapurkar.pdf) |
 | Cybersecurity Webinar | **DG Intern Hub** | Certificate | [View Certificate](./Avadhut%20Rajaram%20kapurkar_CERTIFICATE%20(1).pdf) |
 | Hacker Holidays 2026 — Byte Lotus | TryHackMe | Certificate of Participation | [View Certificate](./THM-T756UJSGXS.pdf) |
 
-### 🏢 Naukri Campus — B2B Business Assessment
+### 🏆 Brand Wars — Naukri Campus
+- **Event:** Brand Wars
 - **Platform:** Naukri Campus
-- **Companies Covered:** Jio, Airtel, and Zomato
+- **Brands Covered:** Jio, Airtel, and Zomato
 - **Assessment Duration:** 30 minutes
 - **Participation:** Took part in an All-India-level assessment and had the opportunity to compete with participants from across India.
 - **Achievement:** Certificate of Participation
